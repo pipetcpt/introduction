@@ -4,7 +4,7 @@
 
 구성원입니다. (알파벳 순서)
 
-9. cmconly
+1. cmconly
 5. dlaqudgml2 
 1. oceanofscience 
 6. parkseeh 
