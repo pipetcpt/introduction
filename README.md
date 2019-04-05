@@ -9,13 +9,13 @@
 
 구성원입니다. (알파벳 순서)
 
-1. [`cmconly`](https://github.com/cmconly)
-5. dlaqudgml2 
-1. oceanofscience 
-6. parkseeh 
-2. Seunghoon-Han 
-3. shanmdphd
-7. Sojinee 
-8. SOOYOUNG-KANG
-4. Sueinchoi 
+5. [`dlaqudgml2`](https://github.com/dlaqudgml12) 
+1. [`oceanofscience`] (https://github.com/oceanofscience)
+6. [`parkseeh`] (https://github.com/parkseeh)
+1. [`pipetpro`](https://github.com/pipetpro)
+1. [`Seunghoon-Han`] (https://github.com/Seunghoon-Han)
+1. [`shanmdphd`] (https://github.com/shanmdphd) ![GitHub followers](https://img.shields.io/github/followers/shanmdphd.svg?label=Follow&style=social)
+1. [`Sojinee`] (https://github.com/Sojinee)
+1. [`SOOYOUNG-KANG`] (https://github.com/SOOYOUNG-KANG)
+1. [`Sueinchoi`] (https://github.com/Sueinchoi)
 
