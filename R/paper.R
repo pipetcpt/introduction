@@ -8,6 +8,8 @@ read_csv('doi.csv')$doi %>% map(knitcitations::citep)
 
 write.bibtex(file = 'papers.bib')
 papers_raw <- read.bibtex('papers.bib')
+
+capture.output(papers_raw, file = 'papers.txt')
 browseURL('papers.txt')
 
 # 
@@ -20,4 +22,4 @@ papers_text <- tibble(paper = papers_raw) %>%
   mutate(paper = sub('\\textendash', '~', paper)) %>% 
   print()
 
-capture.output(papers_raw, file = 'papers.txt')
+
