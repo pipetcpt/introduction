@@ -1,13 +1,13 @@
-# introduction
+# Introduction <img src="assets/PIPET-A-02.JPG"  align="right" height="150" />
 
 - pipetcpt : open source softwares
 - pipetpro : private repositories
 
 # members
 
-`2019-04-03`
+`2019-04-08`
 
-구성원입니다. (알파벳 순서)
+**THe members of PIPET** (Alphabetical orders)
 
 1. [![GitHub followers](https://img.shields.io/github/followers/dlaqudgml2.svg?label=Follow&style=social)`dlaqudgml2`](https://github.com/dlaqudgml2) 임병희 PB
 1. [![GitHub followers](https://img.shields.io/github/followers/oceanofscience.svg?label=Follow&style=social)`oceanofscience`](https://github.com/oceanofscience) 임동석 FY
