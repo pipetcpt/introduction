@@ -3,14 +3,16 @@
 - `pipetcpt` : open source softwares
 - `pipetpro` : private repositories
 
-# 4개의 소위원회 (Task Force) `pipetpro` only
+## 4개의 소위원회 (Task Force) 
+
+**`pipetpro` only**
 
 - [HRM](https://github.com/pipetpro/HRM-meeting)
 - [CTC](https://github.com/pipetpro/CTC-meeting)
 - [SWD](https://github.com/pipetpro/SWD-meeting)
 - [RQC](https://github.com/pipetpro/RQC-meeting)
 
-# members
+## members
 
 `2019-04-08`
 
