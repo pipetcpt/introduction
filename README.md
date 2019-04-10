@@ -7,10 +7,10 @@
 
 **`pipetpro` only**
 
-- [HRM](https://github.com/pipetpro/HRM-meeting) run by FH
-- [CTC](https://github.com/pipetpro/CTC-meeting) run by QS
-- [SWD](https://github.com/pipetpro/SWD-meeting) run by FY
-- [RQC](https://github.com/pipetpro/RQC-meeting) run by FP
+- [HRM](https://github.com/pipetpro/HRM-meeting) 
+- [CTC](https://github.com/pipetpro/CTC-meeting) 
+- [SWD](https://github.com/pipetpro/SWD-meeting) 
+- [RQC](https://github.com/pipetpro/RQC-meeting) 
 
 ## members
 
