@@ -1,7 +1,14 @@
 # Introduction <img src="assets/PIPET-A-02.JPG"  align="right" height="150" />
 
-- pipetcpt : open source softwares
-- pipetpro : private repositories
+- `pipetcpt` : open source softwares
+- `pipetpro` : private repositories
+
+# 4개의 소위원회 (Task Force) `pipetpro` only
+
+- [HRM](https://github.com/pipetpro/HRM-meeting)
+- [CTC](https://github.com/pipetpro/CTC-meeting)
+- [SWD](https://github.com/pipetpro/SWD-meeting)
+- [RQC](https://github.com/pipetpro/RQC-meeting)
 
 # members
 
