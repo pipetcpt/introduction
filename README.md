@@ -18,7 +18,9 @@
 
 **THe members of PIPET** (Alphabetical orders)
 
+1. [![GitHub followers](https://img.shields.io/github/followers/crckhm.svg?label=Follow&style=social)`crckhm`](https://github.com/crckhm) 김혜민 CK
 1. [![GitHub followers](https://img.shields.io/github/followers/dlaqudgml2.svg?label=Follow&style=social)`dlaqudgml2`](https://github.com/dlaqudgml2) 임병희 PB
+1. [![GitHub followers](https://img.shields.io/github/followers/eheh9191.svg?label=Follow&style=social)`eheh9191`](https://github.com/eheh9191) 박은희 AA
 1. [![GitHub followers](https://img.shields.io/github/followers/oceanofscience.svg?label=Follow&style=social)`oceanofscience`](https://github.com/oceanofscience) 임동석 FY
 1. [![GitHub followers](https://img.shields.io/github/followers/parkseeh.svg?label=Follow&style=social)`parkseeh`](https://github.com/parkseeh) 박세현 PP
 1. [![GitHub followers](https://img.shields.io/github/followers/pipetpro.svg?label=Follow&style=social)`pipetpro`](https://github.com/pipetpro) PIPET Pro
