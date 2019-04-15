@@ -31,3 +31,26 @@
 1. [![GitHub followers](https://img.shields.io/github/followers/SOOYOUNG-KANG.svg?label=Follow&style=social)`SOOYOUNG-KANG`](https://github.com/SOOYOUNG-KANG) 강수영 QS
 1. [![GitHub followers](https://img.shields.io/github/followers/Sueinchoi.svg?label=Follow&style=social)`Sueinchoi`](https://github.com/Sueinchoi) 최수인 RS
 
+## Memorandum
+
+**서울성모병원 임상약리과 - 가톨릭대학교 계량약리학연구소 (PIPET)**
+
+### Trainee
+
+1. 모르는 것을 끝까지 파고드는 호기심이 명문대 졸업장을 이긴다. (졸업장, 면허증 하나로 편히 살려는 사람 사절)
+2. 학문에 있어서는 계급장 떼고 토론하라. (上命下服과 science는 함께할 수 없다.)
+3. 모르는 것은 모른다고 말하라. (모름을 숨기면 배울 기회를 차버리는 것이다.)
+4. 배우고 난 후 생각하고 질문하지 않는다면 배운 것이 아니다. (남이 지식을 전달해 줄 수 있어도 생각까지 대신해 줄 수는 없다.)
+5. 사람의 품성은 아랫사름을 대하는 태도에서 거짓없이 드러난다. (위만 쳐다보지 말고 주변이 함꼐 일하고 싶은 사람이 되기를)
+
+### Faculty
+
+1. 속도보다 방향이다.
+2. 윗사람에게 무조건 순정하거나 비위 맞는 사람을 교수로 들이지 말라. (아래에도 같은 것을 요구하여 대학을 망친다.)
+3. 각광받지 못ㅎ나는 주제라도 깊이 파고들 수 있는 기개를 지녀라.
+4. 배우는 사람의 잠재력을 최대한 끌어내는 것이 수련이다. (일을 시키는 것은 수련의 방법이지 목적이 아니다.)
+5. 이 메모를 존중하는 것도, 휴지조각으로 만드는 것도 교수들에게 달려있다. (지키지 싫은 교수는 떠나라.)
+
+2018.12  
+임 동석 (Director, PIPET)
+
