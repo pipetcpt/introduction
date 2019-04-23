@@ -7,12 +7,12 @@
 
 **`pipetpro` only**
 
-- [HRM](https://github.com/pipetpro/HRM-meeting) 
+- [HRM](https://github.com/pipetpro/HRM-meeting)
 - [CTC](https://github.com/pipetpro/CTC-meeting) 
 - [SWD](https://github.com/pipetpro/SWD-meeting) 
 - [RQC](https://github.com/pipetpro/RQC-meeting) 
 
-## members
+## Members
 
 `2019-04-08`
 
@@ -22,7 +22,7 @@
 1. [![GitHub followers](https://img.shields.io/github/followers/dlaqudgml2.svg?label=Follow&style=social)`dlaqudgml2`](https://github.com/dlaqudgml2) 임병희 PB
 1. [![GitHub followers](https://img.shields.io/github/followers/eheh9191.svg?label=Follow&style=social)`eheh9191`](https://github.com/eheh9191) 박은희 AA
 1. [![GitHub followers](https://img.shields.io/github/followers/oceanofscience.svg?label=Follow&style=social)`oceanofscience`](https://github.com/oceanofscience) 임동석 FY
-1. [![GitHub followers](https://img.shields.io/github/followers/parkseeh.svg?label=Follow&style=social)`parkseeh`](https://github.com/parkseeh) 박세현 PP
+1. [![GitHub followers](https://img.shields.io/github/followers/parkseeh.svg?label=Follow&style=social)`parkseeh`](https://github.com/parkseeh) 박시현 PP
 1. [![GitHub followers](https://img.shields.io/github/followers/pipetpro.svg?label=Follow&style=social)`pipetpro`](https://github.com/pipetpro) PIPET Pro
 1. [![GitHub followers](https://img.shields.io/github/followers/QJeon.svg?label=Follow&style=social)`QJeon`](https://github.com/QJeon) 전상일 QJ
 1. [![GitHub followers](https://img.shields.io/github/followers/Seunghoon-Han.svg?label=Follow&style=social)`Seunghoon-Han`](https://github.com/Seunghoon-Han) 한승훈 FH
@@ -53,3 +53,11 @@
 
 2018.12  
 임동석 (Director, PIPET)
+
+## What we do
+
+![](assets/what-we-do.jpg)
+
+
+
+
