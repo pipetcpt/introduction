@@ -1,5 +1,3 @@
-introduction.md papers.md
-introduction.md papers.md
 # Introduction <img src="assets/PIPET-A-02.JPG"  align="right" height="150" />
 
 - `pipetcpt` : open source softwares
