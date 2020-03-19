@@ -5,6 +5,5 @@ readme:
 	cat introduction.md papers.md >> README.md
 
 rmd:
-	Rscript -e "rmarkdown::render('index.Rmd')" ;\
-	sudo cp index.html ../
+	Rscript -e "rmarkdown::render('index.Rmd')"
 
