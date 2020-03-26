@@ -32,6 +32,8 @@ introduction.md papers.md
 1. [![GitHub followers](https://img.shields.io/github/followers/Sojinee.svg?label=Follow&style=social)`Sojinee`](https://github.com/Sojinee) 이소진 GL
 1. [![GitHub followers](https://img.shields.io/github/followers/SOOYOUNG-KANG.svg?label=Follow&style=social)`SOOYOUNG-KANG`](https://github.com/SOOYOUNG-KANG) 강수영 QS
 1. [![GitHub followers](https://img.shields.io/github/followers/Sueinchoi.svg?label=Follow&style=social)`Sueinchoi`](https://github.com/Sueinchoi) 최수인 RS
+1. [![GitHub followers](https://img.shields.io/github/followers/maria904.svg?label=Follow&style=social)`maria904`](https://github.com/maria904) 박마리아 RM
+
 
 ## Memorandum
 
