@@ -48,6 +48,7 @@
 1. [![GitHub followers](https://img.shields.io/github/followers/Seunghoon-Han.svg?label=Follow&style=social)`Seunghoon-Han`](https://github.com/Seunghoon-Han) 한승훈 FH
 1. [![GitHub followers](https://img.shields.io/github/followers/shanmdphd.svg?label=Follow&style=social)`shanmdphd`](https://github.com/shanmdphd) 한성필 FP
 1. [![GitHub followers](https://img.shields.io/github/followers/Sojinee.svg?label=Follow&style=social)`Sojinee`](https://github.com/Sojinee) 이소진 GL
+1. [![GitHub followers](https://img.shields.io/github/followers/shbae1211.svg?label=Follow&style=social)`shbae1211`](https://github.com/shbae1211) 배수현 QB
 1. [![GitHub followers](https://img.shields.io/github/followers/SOOYOUNG-KANG.svg?label=Follow&style=social)`SOOYOUNG-KANG`](https://github.com/SOOYOUNG-KANG) 강수영 QS
 1. [![GitHub followers](https://img.shields.io/github/followers/Sueinchoi.svg?label=Follow&style=social)`Sueinchoi`](https://github.com/Sueinchoi) 최수인 RS
 
