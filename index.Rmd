@@ -1,25 +1,42 @@
 ---
 title: "pipetapps.com"
-output:
-  flexdashboard::flex_dashboard:
-    vertical_layout: fill
+output: flexdashboard::flex_dashboard
 ---
+
+
+Column {data-width=200}
+-------------------------------------
 
 ### Introduction
 
-Welcome to [pipetapps.com](http://www.pipetapps.com)
+<img src="assets/PIPET-A-02.JPG"  align="right" width="170" />
+Welcome to [pipetapps.com](http://www.pipetapps.com). 
 
-### Apps
+In PIPET (Pharmacometrics Institute for Practical Education & Training, 가톨릭대학교 계량약리학연구소), we are actively developing apps of pharmacometrics or clinical pharmacology. Here in pipetapps.com, we are compiling and curating part of developed apps.
+
+You can use pipetapps for a wide variety of calculation and analysis for PK data or simulation of pharmacometrics models.
+
+### Scopes
+
+<img src="assets/pipet-tasks.png"  align="right" width="200" />
+
+
+Column {.tabset}
+-------------------------------------
+
+### Apps (Images)
+
+ | | 
+---|---|---
+<img src="assets/app-jtpeak.png" align="center" width="400" /><br> [PIPET ECG app : CiPA](./pipetecg)    |   <img src="assets/app-be.png"  align="center" width="400" /><br> [Bioequivalance app](./shiny-be) ![GitHub stars](https://img.shields.io/github/stars/pipetcpt/shiny-be?style=social)   |   <img src="assets/app-taclorimus.png" align="center" width="400" /><br> [Tacrolimus TDM](https://asan.shinyapps.io/pk1c/) [![GitHub stars](https://img.shields.io/github/stars/pipetcpt/shiny-be?style=social)](https://github.com/pipetcpt/tdm-tacrolimus)
+<img src="assets/app-pk1c.png" align="center" width="400" /><br> [PK Simulation](https://asan.shinyapps.io/pk1c) [![GitHub stars](https://img.shields.io/github/stars/pipetcpt/shiny-pk1c-oral?style=social)](https://github.com/pipetcpt/shiny-pk1c-oral) | <img src="assets/app-vanco.png" align="center" width="400" /><br> [TDM Vancomycin](https://pipet.shinyapps.io/vancomycin/) [![GitHub stars](https://img.shields.io/github/stars/pipetcpt/tdm-vancomycin?style=social)](https://github.com/pipetcpt/tdm-vancomycin) | <img src="assets/app-cyclo.png" align="center" width="400" /><br> [TDM Cyclosporin](URL) [![GitHub stars](https://img.shields.io/github/stars/pipetcpt/shiny-pk1c-oral?style=social)](https://github.com/pipetcpt/shiny-pk1c-oral)
+<img src="assets/app-pk1c.png" align="center" width="400" /><br> [MCRM](URL) [![GitHub stars](https://img.shields.io/github/stars/pipetcpt/tdm-vancomycin?style=social)](https://github.com/pipetcpt/tdm-vancomycin)|<img src="assets/app-pk1c.png" align="center" width="400" /><br> [Static DDI app](URL) [![GitHub stars](https://img.shields.io/github/stars/pipetcpt/tdm-vancomycin?style=social)](https://github.com/pipetcpt/tdm-vancomycin)|<img src="assets/app-pk1c.png" align="center" width="400" /><br> [Caffeine PK simulation app](URL) [![GitHub stars](https://img.shields.io/github/stars/pipetcpt/tdm-vancomycin?style=social)](https://github.com/pipetcpt/tdm-vancomycin)
+
+### Apps (List)
 
 - [PIPET ECG app : CiPA](./pipetecg)
-- Therapeutic Drug Management (TDM) app :
-- Vancomycin
-- Tacrolimus
-- Cyclosporin
+
 - MCRM
 - Static DDI app
-- NCA app
-- [Bioequivalance app](./shiny-be)
 - [Caffeine PK simulation app](./shiny-caffsim)
-- [pkr](./shiny-pkr)
 
