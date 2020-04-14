@@ -1,7 +1,3 @@
-<img src="assets/app-XXX.png" align="center" width="300" /><br> [YYY](URL) [![GitHub stars](https://img.shields.io/github/stars/GGG?style=social)](https://github.com/GGG) |
-
-
-
  | | 
 ---|---|---
 <img src="assets/app-jtpeak.png" align="center" width="400" /><br> [PIPET ECG app : CiPA](./pipetecg)    |   <img src="assets/app-be.png"  align="center" width="400" /><br> [Bioequivalance app](./shiny-be) ![GitHub stars](https://img.shields.io/github/stars/pipetcpt/shiny-be?style=social)   |   <img src="assets/app-taclorimus.png" align="center" width="400" /><br> [Tacrolimus TDM](https://asan.shinyapps.io/pk1c/) [![GitHub stars](https://img.shields.io/github/stars/pipetcpt/shiny-be?style=social)](https://github.com/pipetcpt/tdm-tacrolimus)
