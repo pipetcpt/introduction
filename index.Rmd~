@@ -1,0 +1,46 @@
+---
+title: "pipetapps.com"
+output: 
+  flexdashboard::flex_dashboard:
+    self_contained: false
+---
+
+```{r include = FALSE}
+get_link <- function(XXX, YYY, URL, GGG){
+  sprintf('<img src="assets/app-%s.png" align="center" width="400" /><br> [%s](%s) [![GitHub stars](https://img.shields.io/github/stars/%s?style=social)](https://github.com/%s)', 
+          XXX, YYY, URL, GGG, GGG)
+}
+```
+
+Column {data-width=200}
+-------------------------------------
+
+### Introduction
+
+<img src="assets/PIPET-A-02.JPG"  align="right" width="170" />
+Welcome to [pipetapps.com](http://www.pipetapps.com). 
+
+In PIPET (Pharmacometrics Institute for Practical Education & Training, 가톨릭대학교 계량약리학연구소), we are actively developing apps of pharmacometrics or clinical pharmacology. Here in pipetapps.com, we are compiling and curating part of developed apps.
+
+You can use pipetapps for a wide variety of calculation and analysis for PK data or simulation of pharmacometrics models.
+
+### Scopes
+
+<img src="assets/pipet-tasks.png"  align="right" width="200" />
+
+
+Column {.tabset}
+-------------------------------------
+
+### Apps (Images)
+
+`r get_link("pk1c", "PK1c", "https://asan.shinyapps.io/pk1c", "pipetcpt/shiny-pk1c-oral")`
+
+### Apps (List)
+
+- [PIPET ECG app : CiPA](./pipetecg)
+
+- MCRM
+- Static DDI app
+- [Caffeine PK simulation app](./shiny-caffsim)
+

@@ -1,6 +1,8 @@
 ---
 title: "pipetapps.com"
-output: flexdashboard::flex_dashboard
+output: 
+  flexdashboard::flex_dashboard:
+    self_contained: false
 ---
 
 
@@ -26,17 +28,42 @@ Column {.tabset}
 
 ### Apps (Images)
 
- | | 
+```{r include = FALSE}
+get_link <- function(image_path = '', app_title = '', URL = '', github_path = 'none'){
+  ifelse(github_path != 'none',
+         sprintf('<img src="assets/app-%s.png" align="center" width="400" /><br> [%s](%s) [![GitHub stars](https://img.shields.io/github/stars/%s?style=social)](https://github.com/%s) <br>', 
+                 image_path, app_title, URL, github_path, github_path),
+         sprintf('<img src="assets/app-%s.png" align="center" width="400" /><br> [%s](%s)', 
+                 image_path, app_title, URL))
+}
+
+app_links <- list(
+  shiny_caff = get_link("shiny-caff", "Caffeine PK simulation", 
+                        "https://asan.shinyapps.io/caff", "asancpt/shiny-caff"),
+  pk1c = get_link("pk1c", "PK Simulation - IV", 
+                  "https://asan.shinyapps.io/pk1c", "pipetcpt/shiny-pk1c-iv"),
+  tac = get_link("tac", "TDM Tacrolimus", 
+                        "https://pipet.shinyapps.io/tacrolimus/", "pipetcpt/tdm-tacrolimus"),
+  cyclo = get_link('cyclo', 'TDM Cyclosporin', 
+                   "https://pipet.shinyapps.io/cyclosporin/", 'pipetcpt/tdm-cyclosporin'),
+  vanco = get_link('vanco', 'TDM Vancomycin', 
+                   "https://pipet.shinyapps.io/vancomycin/", 'pipetcpt/tdm-vancomycin'),
+  mcrm = get_link('mcrm', 'Modified CRM', 
+                  "https://pipet.shinyapps.io/mcrm/", "pipetcpt/shiny-mcrm"),
+  ddi_static = get_link('ddi_static', 'Static DDI model', 
+                  "https://mychloe00.shinyapps.io/ddi_static/", "none"),
+  shiny_be = get_link("shiny-be", "Bioequivalance app", 
+                      "./shiny-be", "pipetcpt/shiny-be"),
+  pipetecg = get_link("pipetecg", "PIPET ECG app : CiPA",
+                      "./pipetecg", "none")
+)
+```
+
+| | 
 ---|---|---
-<img src="assets/app-jtpeak.png" align="center" width="400" /><br> [PIPET ECG app : CiPA](./pipetecg)    |   <img src="assets/app-be.png"  align="center" width="400" /><br> [Bioequivalance app](./shiny-be) ![GitHub stars](https://img.shields.io/github/stars/pipetcpt/shiny-be?style=social)   |   <img src="assets/app-taclorimus.png" align="center" width="400" /><br> [Tacrolimus TDM](https://asan.shinyapps.io/pk1c/) [![GitHub stars](https://img.shields.io/github/stars/pipetcpt/shiny-be?style=social)](https://github.com/pipetcpt/tdm-tacrolimus)
-<img src="assets/app-pk1c.png" align="center" width="400" /><br> [PK Simulation](https://asan.shinyapps.io/pk1c) [![GitHub stars](https://img.shields.io/github/stars/pipetcpt/shiny-pk1c-oral?style=social)](https://github.com/pipetcpt/shiny-pk1c-oral) | <img src="assets/app-vanco.png" align="center" width="400" /><br> [TDM Vancomycin](https://pipet.shinyapps.io/vancomycin/) [![GitHub stars](https://img.shields.io/github/stars/pipetcpt/tdm-vancomycin?style=social)](https://github.com/pipetcpt/tdm-vancomycin) | <img src="assets/app-cyclo.png" align="center" width="400" /><br> [TDM Cyclosporin](URL) [![GitHub stars](https://img.shields.io/github/stars/pipetcpt/shiny-pk1c-oral?style=social)](https://github.com/pipetcpt/shiny-pk1c-oral)
-<img src="assets/app-pk1c.png" align="center" width="400" /><br> [MCRM](URL) [![GitHub stars](https://img.shields.io/github/stars/pipetcpt/tdm-vancomycin?style=social)](https://github.com/pipetcpt/tdm-vancomycin)|<img src="assets/app-pk1c.png" align="center" width="400" /><br> [Static DDI app](URL) [![GitHub stars](https://img.shields.io/github/stars/pipetcpt/tdm-vancomycin?style=social)](https://github.com/pipetcpt/tdm-vancomycin)|<img src="assets/app-pk1c.png" align="center" width="400" /><br> [Caffeine PK simulation app](URL) [![GitHub stars](https://img.shields.io/github/stars/pipetcpt/tdm-vancomycin?style=social)](https://github.com/pipetcpt/tdm-vancomycin)
+`r app_links$pk1c` | `r app_links$shiny_be` | `r app_links$shiny_caff`
+`r app_links$vanco` | `r app_links$tac` | `r app_links$cyclo`
+`r app_links$mcrm` | `r app_links$ddi_static` | `r app_links$pipetecg`
 
 ### Apps (List)
-
-- [PIPET ECG app : CiPA](./pipetecg)
-
-- MCRM
-- Static DDI app
-- [Caffeine PK simulation app](./shiny-caffsim)
 
