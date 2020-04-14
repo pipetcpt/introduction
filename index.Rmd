@@ -1,6 +1,15 @@
-# pipetapps.com
+---
+title: "pipetapps.com"
+output:
+  flexdashboard::flex_dashboard:
+    vertical_layout: fill
+---
+
+### Introduction
 
 Welcome to [pipetapps.com](http://www.pipetapps.com)
+
+### Apps
 
 - [PIPET ECG app : CiPA](./pipetecg)
 - Therapeutic Drug Management (TDM) app :
@@ -10,5 +19,7 @@ Welcome to [pipetapps.com](http://www.pipetapps.com)
 - MCRM
 - Static DDI app
 - NCA app
-- Bioequivalance app
+- [Bioequivalance app](./shiny-be)
 - [Caffeine PK simulation app](./shiny-caffsim)
+- [pkr](./shiny-pkr)
+
