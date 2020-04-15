@@ -25,16 +25,13 @@
 
 ## 4 Task Forces (소위원회)
 
-**`pipetpro` only**
+**`Private Repositories`** - PIPET Members only
 
-[HRM](https://github.com/pipetpro/HRM-meeting) |  [CTC](https://github.com/pipetpro/CTC-meeting) | [SWD](https://github.com/pipetpro/SWD-meeting) | [RQC](https://github.com/pipetpro/RQC-meeting) 
-
-- `pipetcpt` : open source softwares
-- `pipetpro` : private repositories
+[SWD](https://github.com/pipetcpt/SWD) | [RQC](https://github.com/pipetcpt/RQC) | [HRM](https://github.com/pipetcpt/HRM) |  [CTC](https://github.com/pipetcpt/CTC)
 
 ## Members
 
-`2020-04-12`
+`2020-04-15`
 
 **THe members of PIPET** (Alphabetical orders)
 
@@ -58,6 +55,7 @@
 
 ## Open-source simulation software
 
+1. [pipetapps.com](http://www.pipetapps.com)
 1. [CRM_simulation: Early clinical trial designing using CRM](https://www.edison.re.kr/search?p_p_id=edisonscienceAppstore_WAR_edisonappstore2016portlet&p_p_mode=view&p_p_state=maximized&_edisonscienceAppstore_WAR_edisonappstore2016portlet_solverId=85901)
 1. [Intravenous_HBIG: 정맥 주사용 B형 간염 항체 용법용량 별 목표 농도 도달률 예측](https://www.edison.re.kr/search?p_p_id=edisonscienceAppstore_WAR_edisonappstore2016portlet&p_p_mode=view&p_p_state=maximized&_edisonscienceAppstore_WAR_edisonappstore2016portlet_solverId=85701)
 1. [AntihypertensiveDrugs: Anti-Hypertensive Drugs 계산 프로그램](https://www.edison.re.kr/search?p_p_id=edisonscienceAppstore_WAR_edisonappstore2016portlet&p_p_mode=view&p_p_state=maximized&_edisonscienceAppstore_WAR_edisonappstore2016portlet_solverId=85501)
