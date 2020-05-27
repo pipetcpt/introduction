@@ -48,6 +48,8 @@
 1. [![GitHub followers](https://img.shields.io/github/followers/shbae1211.svg?label=Follow&style=social)`shbae1211`](https://github.com/shbae1211) 배수현 QB
 1. [![GitHub followers](https://img.shields.io/github/followers/SOOYOUNG-KANG.svg?label=Follow&style=social)`SOOYOUNG-KANG`](https://github.com/SOOYOUNG-KANG) 강수영 QS
 1. [![GitHub followers](https://img.shields.io/github/followers/Sueinchoi.svg?label=Follow&style=social)`Sueinchoi`](https://github.com/Sueinchoi) 최수인 RS
+1. [![GitHub followers](https://img.shields.io/github/followers/yjung1.svg?label=Follow&style=social)`yjung1`](https://github.com/yjung1) 홍윤정
+1. [![GitHub followers](https://img.shields.io/github/followers/JeongcheolShin.svg?label=Follow&style=social)`JeongcheolShin`](https://github.com/JeongcheolShin) 신정철
 
 ## What we do
 
